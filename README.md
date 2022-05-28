@@ -6,6 +6,7 @@ Hệ thống cho phép mọi người khi truy cập đường dẫn đều có 
 ![web](https://user-images.githubusercontent.com/93510101/170825969-9ac9409e-0a49-457a-b942-2e2d3877dff2.png)
 
 Để đăng bài blog hay bình luận thì người dùng phải đăng nhập vào hệ thống, nếu chưa có tài khoản thì có thể đăng ký;
+
 Giao diện đăng nhập:
 
 ![web](https://user-images.githubusercontent.com/93510101/170826024-73b4f72d-7ade-410a-8b34-ae3ac9217a55.png)
