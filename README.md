@@ -32,7 +32,7 @@ Người dùng khác:
 
 Hệ thống sử dụng "in-memory database H2" nên toàn bộ dữ liệu người dùng và các blog sẽ mất đi khi khởi động lại server.
 
-#Phân công công việc:
+# Phân công công việc:
 
 Nhóm thực hành 18 nhóm 4 bọn em gồm 2 thành viên là: Phùng Thanh Nam - B19DCCN455 và Cao Xuân Đạt - B19DCCN167
 
